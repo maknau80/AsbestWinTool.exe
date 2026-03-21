@@ -1,6 +1,6 @@
 <img width="500" height="100" alt="AsbestWinTool exe-Photoroom" src="https://github.com/user-attachments/assets/1160c793-19cc-41f0-abf8-30668807c964" />
 
-# Утилита *AsbestWinTool.exe* от Asbest Software предназначена для кастомизации («косметического» изменения) системной информации Windows и управления Microsoft Store
+# Утилита *AsbestWinTool* от Asbest Software предназначена для кастомизации («косметического» изменения) системной информации Windows и управления Microsoft Store
 ## Кастомизация системной информации (WinVer) позволяет изменить отображаемые данные о версии Windows:
 ```
 >_ Изменение названия ОС
