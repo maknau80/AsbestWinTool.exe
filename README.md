@@ -41,6 +41,5 @@
 
 ## Asbest Software
 > <img width="500" height="100" alt="AsbestWinTool exe-Photoroom" src="https://github.com/user-attachments/assets/1160c793-19cc-41f0-abf8-30668807c964" />
-> <img width="300" height="300" alt="Tool (1) (1)-Photoroom" src="https://github.com/user-attachments/assets/dda71b4f-fd2b-42ba-87d3-8eb5305d3e29" />
 
 
