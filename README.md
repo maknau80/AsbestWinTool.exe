@@ -1,7 +1,7 @@
+<img width="500" height="100" alt="AsbestWinTool exe-Photoroom" src="https://github.com/user-attachments/assets/1160c793-19cc-41f0-abf8-30668807c964" />
 <img width="500" height="100" alt="AsbestWinTool exe-Photoroom" src="[https://github.com/user-attachments/assets/1160c793-19cc-41f0-abf8-30668807c964](https://cdn.discordapp.com/attachments/934870167433936936/1540684279997272064/fc1znuHHeOO8ed485x57hz3DnuHHeOO8ed485x57hz3DnuHHeOO8ed485x57hz3DnuHHeOO8ed485x57hz3DnuHHeOO8ed485x57hz3DnuHHeOO8ed485x3o37hx3jjvHnePOcee4c9w57hx3jjvHnePOcee4c9w57hx3jjvHnePOcee4c9w57hx3jjvHnePOcee4c9w57hx3jjvHnePOcee4c9w57hx3jjvHnePOcee4b5c37rmvc9w57hx3jjvHnePOcee4c9w57hx3jjvHnePOcee4c9w57hx3jjvHnePOcee4c9w57hx3jjvHnePOcee4c9w57hx3jjvHfXs47v8X99XlmBe0N5QAAAAASUVORK5CYII.png?ex=6a8ad98c&is=6a89880c&hm=9090b866ce03afc24cfd66514989094216121dda946944d0379adf9d4ad47d81&)" />
 
 # Утилита *AsbestWinTool* от Asbest Software предназначена для кастомизации («косметического» изменения) системной информации Windows и управления Microsoft Store
-<img width="500" height="100" alt="AsbestWinTool exe-Photoroom" src="https://github.com/user-attachments/assets/1160c793-19cc-41f0-abf8-30668807c964" />
 ## Кастомизация системной информации (WinVer) позволяет изменить отображаемые данные о версии Windows:
 ```
 >_ Изменение названия ОС
